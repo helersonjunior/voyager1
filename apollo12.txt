@@ -1,0 +1,3 @@
+data: 14 de novenvro de 1996
+fato: segundo voo tripulado a pousar na lua
+duração: 10 dias
